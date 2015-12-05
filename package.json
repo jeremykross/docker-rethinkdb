@@ -1,0 +1,24 @@
+{
+  "name": "docker-rethinkdb",
+  "private": true,
+  "description": "Docker image designed to run a RethinkDB cluster on ContainerShip",
+  "main": "rethinkdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/containership/docker-rethinkdb.git"
+  },
+  "author": "ContainerShip Developers <developers@containership.io>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/containership/docker-rethinkdb/issues"
+  },
+  "homepage": "https://github.com/containership/docker-rethinkdb",
+  "dependencies": {
+    "async": "^1.0.0",
+    "lodash": "^3.9.1",
+    "native-dns": "^0.7.0"
+  }
+}
