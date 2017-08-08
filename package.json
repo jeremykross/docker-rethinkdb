@@ -1,5 +1,5 @@
 {
-  "name": "docker-rethinkdb",
+  "name": "@containership/containership.marketplace.rethinkdb",
   "private": true,
   "description": "Docker image designed to run a RethinkDB cluster on ContainerShip",
   "main": "rethinkdb.js",
